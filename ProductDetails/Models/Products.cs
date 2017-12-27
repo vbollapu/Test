@@ -8,5 +8,7 @@ namespace ProductDetails.Models
     public class Products
     {
         public int Id { get; set; }
+
+        public int PId { get; set; }
     }
 }
